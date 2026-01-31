@@ -1,0 +1,36 @@
+---
+title: "tqdm开源项目演化分析与开发实践"
+subtitle: "基于Git历史与静态代码分析的开源仓库研究"
+author: [李行健, 蔡滟鹛, 李智卓, 张嘉颂, 车佳烨]
+date: "2025年1月"
+lang: zh-CN
+
+CJKmainfont: "SimSun"
+CJKsansfont: "SimHei"  
+CJKmonofont: "FangSong"
+CJKoptions:
+  - BoldFont=SimHei
+  - ItalicFont=KaiTi
+
+mainfont: "Times New Roman"
+monofont: "Consolas"
+
+toc: true
+numbersections: true
+caption-justification: centering # 图片标题居中
+
+titlepage: true,
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "360049"
+titlepage-rule-height: 0
+titlepage-background: "background.pdf"
+listings-disable-line-numbers: false
+toc-own-page: true
+
+footer-left: "《开源软件基础》课程大作业"
+
+header-includes: |
+  \usepackage{xeCJK}
+  \usepackage{indentfirst}
+  \setlength{\parindent}{2em}
+---
